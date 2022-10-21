@@ -1,3 +1,3 @@
-import GeoReview from './geoReview.js';
+import GeoReview from '/geoReview.js';
 
 new GeoReview();
